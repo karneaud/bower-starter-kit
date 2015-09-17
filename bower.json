@@ -1,0 +1,14 @@
+{
+  "name": "bower-web-starter-kit",
+  "version": "0.0.1",
+  "dependencies":
+  {
+    "normalize.css" : "latest",
+    "jquery":"latest",
+    "modernizr": "latest"
+  },
+  "devDependencies" :
+  {
+    "sassarch":"latest"
+  }
+}
